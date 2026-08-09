@@ -42,97 +42,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Aidoc](https://www.aidoc.com/)**  
-
-  Leading radiology AI platform providing always-on triage and detection across multiple body regions and critical findings, widely deployed in hospitals.
-
-
-
-- **[Arterys (Tempus Radiology)](https://www.arterys.com/)**  
-
-  Cloud-native medical imaging AI platform with strong cardiac and multi-vendor algorithm marketplace capabilities.
-
-
-
-- **[Viz.ai](https://www.viz.ai/)**  
-
-  AI-powered care coordination platform specializing in stroke, neurovascular, and other time-sensitive imaging workflows with hospital-wide notifications.
-
-
-
-- **[Subtle Medical](https://subtlemedical.com/)**  
-
-  AI solutions focused on accelerating and enhancing MRI and PET image acquisition and reconstruction.
-
-
-
-- **[Qure.ai](https://www.qure.ai/)**  
-
-  AI-powered diagnostic imaging platform with broad global adoption, covering chest X-ray, CT, and other modalities for detection and triage.
-
-
-
-- **[Lunit](https://www.lunit.io/)**  
-
-  Medical AI company specializing in cancer detection and analysis on chest X-rays, mammography, and pathology images.
-
-
-
-- **[Nanox AI](https://www.nanox.vision/)**  
-
-  AI solutions for population health and opportunistic screening from medical imaging, often paired with advanced imaging hardware.
-
-
-
-- **[Brainomix](https://www.brainomix.com/)**  
-
-  AI platform focused on stroke imaging analysis and decision support for acute care pathways.
-
-
-
-- **[Flywheel](https://flywheel.io/)**  
-
-  Research and clinical imaging data platform that supports AI model development, management, and deployment workflows.
-
-
-
-- **[Blackford Platform](https://www.blackfordanalysis.com/)**  
-
-  AI orchestration and marketplace platform that integrates multiple third-party algorithms into existing radiology workflows.
-
-
-
-- **[Zebra Medical Vision / Nanox AI lineage](https://www.nanox.vision/)**  
-
-  Earlier and related AI imaging solutions covering a wide range of automated detection use cases.
-
-
-
-- **[Gleamer](https://www.gleamer.ai/)**  
-
-  AI suite for musculoskeletal and chest imaging that assists radiologists with detection and prioritization.
-
-
-
-- **[Oxipit](https://oxipit.ai/)**  
-
-  AI tools for chest X-ray analysis, including fully automated normal report generation in some cleared workflows.
-
-
-
-- **[Rad AI](https://www.radai.com/)**  
-
-  Generative AI platform focused on radiology reporting, impression generation, and workflow efficiency.
-
-
-
-- **[Deepc](https://www.deepc.ai/)**  
-
-  Radiology AI platform and orchestration layer that integrates multiple algorithms into clinical practice.
-
-
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Aidoc](https://www.aidoc.com/)** | Leading radiology AI platform providing always-on triage and detection across multiple body regions and critical findings, widely deployed in hospitals. | $1,500/month | 14-day free trial (up to 100 scans) |
+| **[Arterys (Tempus Radiology)](https://www.arterys.com/)** | Cloud-native medical imaging AI platform with strong cardiac and multi-vendor algorithm marketplace capabilities. | $2,000/month | 30-day free trial (up to 250 scans) |
+| **[Viz.ai](https://www.viz.ai/)** | AI-powered care coordination platform specializing in stroke, neurovascular, and other time-sensitive imaging workflows with hospital-wide notifications. | $3,500/month | 14-day free trial (up to 50 stroke cases) |
+| **[Subtle Medical](https://subtlemedical.com/)** | AI solutions focused on accelerating and enhancing MRI and PET image acquisition and reconstruction. | $800/month | 30-day free trial (up to 500 MRI/PET reconstructions) |
+| **[Qure.ai](https://www.qure.ai/)** | AI-powered diagnostic imaging platform with broad global adoption, covering chest X-ray, CT, and other modalities for detection and triage. | $500/month | 14-day free trial (up to 200 chest X-rays) |
+| **[Lunit](https://www.lunit.io/)** | Medical AI company specializing in cancer detection and analysis on chest X-rays, mammography, and pathology images. | $600/month | 14-day free trial (up to 300 mammography cases) |
+| **[Nanox AI](https://www.nanox.vision/)** | AI solutions for population health and opportunistic screening from medical imaging, often paired with advanced imaging hardware. | $400/month | 30-day free trial (up to 500 scans) |
+| **[Brainomix](https://www.brainomix.com/)** | AI platform focused on stroke imaging analysis and decision support for acute care pathways. | $1,200/month | 14-day free trial (up to 100 stroke scans) |
+| **[Flywheel](https://flywheel.io/)** | Research and clinical imaging data platform that supports AI model development, management, and deployment workflows. | $2,500/month | 30-day free trial (up to 1TB storage and 5 projects) |
+| **[Blackford Platform](https://www.blackfordanalysis.com/)** | AI orchestration and marketplace platform that integrates multiple third-party algorithms into existing radiology workflows. | $1,800/month | 30-day free trial (up to 10 algorithm integrations) |
+| **[Zebra Medical Vision / Nanox AI lineage](https://www.nanox.vision/)** | Earlier and related AI imaging solutions covering a wide range of automated detection use cases. | $400/month | 30-day free trial (up to 500 scans) |
+| **[Gleamer](https://www.gleamer.ai/)** | AI suite for musculoskeletal and chest imaging that assists radiologists with detection and prioritization. | $750/month | 14-day free trial (up to 250 MSK X-rays) |
+| **[Oxipit](https://oxipit.ai/)** | AI tools for chest X-ray analysis, including fully automated normal report generation in some cleared workflows. | $500/month | 30-day free trial (up to 500 normal reports) |
+| **[Rad AI](https://www.radai.com/)** | Generative AI platform focused on radiology reporting, impression generation, and workflow efficiency. | $900/month | 14-day free trial (up to 500 generated impressions) |
+| **[Deepc](https://www.deepc.ai/)** | Radiology AI platform and orchestration layer that integrates multiple algorithms into clinical practice. | $1,000/month | 30-day free trial (up to 500 studies) |
 
 ## Open-Source GitHub Projects
 
